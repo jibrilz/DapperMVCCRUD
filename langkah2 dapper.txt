@@ -1,0 +1,7 @@
+nugget package dapper, .design, data.sqlclient
+
+-model employee ---entities
+-model dapper orm ---connectionstring sql
+-buat store proceduer ----- crud
+-controller --------
+-view
